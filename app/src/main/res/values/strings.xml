@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Image-Match-Game</string>
+    <string name="medium_6_x_3">Medium (6 x 3)</string>
+    <string name="hard_6_x_4">Hard (6 x 4)</string>
+    <string name="easy_4_x_2">Easy (4 x 2)</string>
+    <string name="refresh">Refresh</string>
+    <string name="choose_difficulty">Choose difficulty</string>
+    <string name="digitsAllowed">1234567890abcdefghijklmnopqrstuvwxyz_-</string>
+    <string name="game_name">Game Name</string>
+    <string name="save">Save</string>
+    <string name="enter_game_name">Enter game name</string>
+</resources>
